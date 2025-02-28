@@ -18,10 +18,10 @@ Venho compartilhar meu projeto com vocês :smiley:</h1>
 <h2> Um projeto que utiliza as tecnologias</h2>
 -CSS
 <img align="center" alt="emer-stack" height="50" width="71" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<h2>
-  @media (max-width: 768px)
-  @media (max-width: 480px) 
-</h2>
+  - ** Computer 
+  - ** tablet @media (max-width: 768px)
+- **  MobileFirst@media (max-width: 480px) 
+
 <br>
 -HTML
 <img align="center" alt="emer-stack" height="50" width="71" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
