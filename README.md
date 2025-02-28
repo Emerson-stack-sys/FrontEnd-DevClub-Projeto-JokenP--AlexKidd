@@ -11,7 +11,7 @@ Venho compartilhar meu projeto com vocês :smiley:</h1>
   <img align+'center" alt="emer-stack" height="700" widht="300" src="https://github.com/Emerson-stack-sys/FrontEnd-DevClub-Projeto-JokenP--AlexKidd/blob/main/img/TabletScreen.png?raw=true">
   <br>
   <br>
-   <img align+'center" alt="emer-stack" height="700" widht="300" >
+   <img align+'center" alt="emer-stack" height="700" widht="300" src="https://github.com/Emerson-stack-sys/FrontEnd-DevClub-Projeto-JokenP--AlexKidd/blob/main/img/MobileScreen.png?raw=true">
       <img align+'center" alt="emer-stack" height="700" widht="300" >
       <img align+'center" alt="emer-stack" height="700" widht="300" >
   
