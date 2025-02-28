@@ -4,7 +4,7 @@ Venho compartilhar meu projeto com vocês :smiley:</h1>
 <br>
 <br>
 
-<h2> Este foi um  projeto de um jogo de JokenPô, que eu fiz com ideas eu tecnologias que adquerir, estudando basyante o curso do <a href="https://rodolfomori.com.br/Devclub">clique aqui </a> DevClub
+<h2> Este foi um  projeto de um jogo de JokenPô, do ( AleX Kidd ) exclusivo, Usei minha criatividade e ideias e com tecnologias que adquerir, estudando o curso do <a href="https://rodolfomori.com.br/Devclub">clique aqui </a> DevClub
 <br>
 <br>
   <img align+'center" alt="emer-stack" height="700" widht="300" src="https://github.com/Emerson-stack-sys/FrontEnd-DevClub-Projeto-JokenP--AlexKidd/blob/main/img/ComputerScreen.png?raw=true" >
@@ -28,19 +28,20 @@ Venho compartilhar meu projeto com vocês :smiley:</h1>
 <br>
 -JAVASCRIPS
 <img align="center" alt="emer-stack" height="50" width="71" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<h2> Usando o javaScript utilizei as funções
-  -// Função que gera a jogada aleatória do inimigo
-  -// Função para trocar a imagem de fundo
-   -// Opcional: trocar o fundo ao reiniciar
- - // Função para determinar o vencedor
--// Selecionando os elementos
-  -// Criando e adicionando botão de reset
- - // Lista de imagens para trocar
-  -// Variáveis de pontuação
- - // Definição correta do ENUM `GAME_OPTIONS`
-  -// Array com os valores do GAME_OPTIONS
-  -// Garante que o código só executa se o elemento existir
-  - // Eventos de clique corretos
-</h2>
+## Usando o JavaScript utilizei as funções
+
+- **Função que gera a jogada aleatória do inimigo**
+- **Função para trocar a imagem de fundo**
+  - Opcional: trocar o fundo ao reiniciar
+- **Função para determinar o vencedor**
+- **Selecionando os elementos**
+  - Criando e adicionando botão de reset
+- **Lista de imagens para trocar**
+- **Variáveis de pontuação**
+- **Definição correta do ENUM `GAME_OPTIONS`**
+  - Array com os valores do `GAME_OPTIONS`
+- **Garante que o código só executa se o elemento existir**
+- **Eventos de clique corretos**
+
 
 
