@@ -7,7 +7,7 @@ Venho compartilhar meu projeto com vocês :smiley:</h1>
 <h2> Este foi um  projeto que aprendi no curso do <a href="https://rodolfomori.com.br/Devclub">clique aqui </a> DevClub
 <br>
 <br>
-  <img align+'center" alt="emer-stack" height="700" widht="300" >
+  <img align+'center" alt="emer-stack" height="700" widht="300" src="https://github.com/Emerson-stack-sys/FrontEnd-DevClub-Projeto-JokenP--AlexKidd/blob/main/img/ComputerScreen.png?raw=true" >
   <img align+'center" alt="emer-stack" height="700" widht="300" >
   <br>
   <br>
