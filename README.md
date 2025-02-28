@@ -27,19 +27,20 @@ Venho compartilhar meu projeto com vocês :smiley:</h1>
 <img align="center" alt="emer-stack" height="50" width="71" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <br>
 -JAVASCRIPS
+<img align="center" alt="emer-stack" height="50" width="71" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <h2> Usando o javaScript utilizei as funções
-  // Função que gera a jogada aleatória do inimigo
-  // Função para trocar a imagem de fundo
-   // Opcional: trocar o fundo ao reiniciar
-  // Função para determinar o vencedor
-// Selecionando os elementos
-  // Criando e adicionando botão de reset
-  // Lista de imagens para trocar
-  // Variáveis de pontuação
-  // Definição correta do ENUM `GAME_OPTIONS`
-  // Array com os valores do GAME_OPTIONS
-  // Garante que o código só executa se o elemento existir
-   // Eventos de clique corretos
+  -// Função que gera a jogada aleatória do inimigo
+  -// Função para trocar a imagem de fundo
+   -// Opcional: trocar o fundo ao reiniciar
+ - // Função para determinar o vencedor
+-// Selecionando os elementos
+  -// Criando e adicionando botão de reset
+ - // Lista de imagens para trocar
+  -// Variáveis de pontuação
+ - // Definição correta do ENUM `GAME_OPTIONS`
+  -// Array com os valores do GAME_OPTIONS
+  -// Garante que o código só executa se o elemento existir
+  - // Eventos de clique corretos
 </h2>
 
-<img align="center" alt="emer-stack" height="50" width="71" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
